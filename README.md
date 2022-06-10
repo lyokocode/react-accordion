@@ -1,5 +1,5 @@
 # AELİTA
 
-Rewiev App
+Acoordion menu App
 
 ## React Project
